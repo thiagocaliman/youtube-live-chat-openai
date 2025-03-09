@@ -1,0 +1,10 @@
+{
+    "nome_bot": "AI Bot",
+    "id_transmissao": "ID-DA-SUA-TRANSMISSAO",
+    "id_assistente": "ID-DO-SEU-ASSISTENTE",
+    "nome_canal_bot": "SEU-NOME-DE-CANAL",
+    "intervalo_verificacao": 10,
+    "modo_economia": false,
+    "intervalo_economia": 20,
+    "cota_diaria": 10000
+}
